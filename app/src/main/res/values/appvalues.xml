@@ -1,0 +1,17 @@
+<resources>
+    <item name="percent_40" type="dimen">0.40</item>
+    <item name="percent_45" type="dimen">0.45</item>
+    <item name="percent_50" type="dimen">0.50</item>
+
+    <color name="verde_escuro">#006341</color>
+    <color name="verde_claro">#00A859</color>
+    <color name="cinza_escuro">#4D4D4D</color>
+    <color name="cinza_claro">#B3B3B3</color>
+    <color name="white">#FFFFFF</color>
+
+    <string name="app_name">Reajuste Salarial</string>
+    <string name="titulo">Calculadora de Reajuste</string>
+    <string name="hint_salario">Digite o salário atual</string>
+    <string name="btn_calcular">Calcular Novo Salário</string>
+    <string name="resultado">Novo salário: </string>
+</resources>
